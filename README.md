@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.png" alt="Manvendra Singh Banner" width="100%">
 </p>
 
-<h1 align="center">Hey there, I'm Manvendra 👋</h1>
+<!-- <h1 align="center">Hey there, I'm Manvendra 👋</h1> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=0096FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Developer;Machine+Learning+Enthusiast;Reinforcement+Learning+Builder;Problem+Solver" alt="Typing introduction">
