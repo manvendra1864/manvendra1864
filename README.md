@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=0096FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Developer;Machine+Learning+Enthusiast;Reinforcement+Learning+Builder;Problem+Solver" alt="Typing introduction">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/github/followers/manvendra1864?style=for-the-badge&logo=github&label=Followers&color=0096FF" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/manvendra1864/manvendra1864?style=for-the-badge&logo=github&label=Stars&color=4169E1" alt="GitHub profile stars">
   <img src="https://komarev.com/ghpvc/?username=manvendra1864&style=for-the-badge&color=7DF9FF" alt="Profile views">
-</p>
+</p> -->
 
 <h2 align="center">👨‍💻 About Me</h2>
 
