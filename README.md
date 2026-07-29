@@ -37,7 +37,7 @@
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://github.com/manvendra1864/manvendra1864/blob/main/assets/ascii-portrait-royal-blue.svg"
+  src="https://github.com/manvendra1864/manvendra1864/blob/main/assets/ascii-portrait-0095ff.svg"
   width="300"
   alt="Manvendra Singh ASCII portrait"
 />
