@@ -1,20 +1,10 @@
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0096FF,50:4169E1,100:7DF9FF&text=Manvendra%20Singh&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20ML%20Enthusiast&descAlignY=59&descSize=16&animation=fadeIn"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:7DF9FF,50:0096FF,100:4169E1&text=Manvendra%20Singh&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20ML%20Enthusiast&descAlignY=59&descSize=16&animation=fadeIn"
-  />
-  <img
-    width="100%"
-    alt="Manvendra Singh GitHub banner"
-    src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0096FF,50:4169E1,100:7DF9FF&text=Manvendra%20Singh&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20ML%20Enthusiast&descAlignY=59&descSize=16&animation=fadeIn"
-  />
-</picture>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:7DF9FF,50:0096FF,100:4169E1&text=Manvendra%20Singh&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20ML%20Enthusiast&descAlignY=59&descSize=16&animation=fadeIn&section=header"
+  alt="Manvendra Singh GitHub banner"
+/>
 
 <h1>Hey there, I'm Manvendra Singh 👋</h1>
 
@@ -23,15 +13,30 @@
   alt="Typing introduction"
 />
 
+<!-- GitHub follower, star and profile-view badges are hidden.
+
 <p>
   <a href="https://github.com/manvendra1864?tab=followers">
-    <img src="https://img.shields.io/github/followers/manvendra1864?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0096FF" alt="GitHub followers"/>
+    <img
+      src="https://img.shields.io/github/followers/manvendra1864?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0096FF"
+      alt="GitHub followers"
+    />
   </a>
+
   <a href="https://github.com/manvendra1864?tab=repositories">
-    <img src="https://img.shields.io/github/stars/manvendra1864?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&label=Stars&color=4169E1" alt="GitHub stars"/>
+    <img
+      src="https://img.shields.io/github/stars/manvendra1864?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&label=Stars&color=4169E1"
+      alt="GitHub stars"
+    />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=manvendra1864&label=Profile%20Views&color=0096FF&style=for-the-badge" alt="Profile views"/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=manvendra1864&label=Profile%20Views&color=0096FF&style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
+
+-->
 
 </div>
 
@@ -53,10 +58,11 @@ Computer Science student with experience in **software development, machine lear
 - 📫 Reach me at **manvendra1864@gmail.com**
 
 </td>
+
 <td width="35%" align="center" valign="middle">
 
 <img
-  width="245"
+  width="230"
   src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"
   alt="Developer animation"
 />
@@ -78,47 +84,124 @@ Computer Science student with experience in **software development, machine lear
 
 <h3>Machine Learning & AI</h3>
 
-<img
-  src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark"
-  alt="PyTorch, Scikit-learn and OpenCV"
-/>
+<p>
+  <img
+    height="48"
+    width="48"
+    src="https://skillicons.dev/icons?i=pytorch&theme=dark"
+    title="PyTorch"
+    alt="PyTorch"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://skillicons.dev/icons?i=sklearn&theme=dark"
+    title="Scikit-learn"
+    alt="Scikit-learn"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://skillicons.dev/icons?i=opencv&theme=dark"
+    title="OpenCV"
+    alt="OpenCV"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://cdn.simpleicons.org/numpy/4D77CF"
+    title="NumPy"
+    alt="NumPy"
+  />
+</p>
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0096FF?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-4169E1?style=for-the-badge" alt="Reinforcement Learning"/>
-  <img src="https://img.shields.io/badge/JSON%20APIs-0096FF?style=for-the-badge&logo=json&logoColor=white" alt="JSON APIs"/>
+  <sub>
+    Machine Learning • Reinforcement Learning • Computer Vision • DQN • NEAT
+  </sub>
 </p>
 
 <h3>Tools & Platforms</h3>
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=dark"
-  alt="Git, GitHub, Linux, Visual Studio Code and Figma"
-/>
-
 <p>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-4169E1?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/Canva-0096FF?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/draw.io-4169E1?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="draw.io"/>
+  <img
+    height="48"
+    width="48"
+    src="https://skillicons.dev/icons?i=git&theme=dark"
+    title="Git"
+    alt="Git"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://skillicons.dev/icons?i=github&theme=dark"
+    title="GitHub"
+    alt="GitHub"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://skillicons.dev/icons?i=linux&theme=dark"
+    title="Linux"
+    alt="Linux"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://skillicons.dev/icons?i=vscode&theme=dark"
+    title="Visual Studio Code"
+    alt="Visual Studio Code"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://skillicons.dev/icons?i=figma&theme=dark"
+    title="Figma"
+    alt="Figma"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://cdn.simpleicons.org/jupyter/F37626"
+    title="Jupyter Notebook"
+    alt="Jupyter Notebook"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://cdn.simpleicons.org/canva/00C4CC"
+    title="Canva"
+    alt="Canva"
+  />
+  &nbsp;
+  <img
+    height="48"
+    width="48"
+    src="https://cdn.simpleicons.org/diagramsdotnet/F08705"
+    title="draw.io"
+    alt="draw.io"
+  />
 </p>
 
 </div>
 
-<!--
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=manvendra1864&show_icons=true&hide_border=true&theme=transparent&title_color=0096FF&icon_color=7DF9FF&text_color=4169E1"
-  alt="GitHub statistics"
-/>
-
-<img
-  width="41%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendra1864&layout=compact&hide_border=true&theme=transparent&title_color=0096FF&text_color=4169E1"
-  alt="Most used languages"
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvendra1864&theme=github_dark"
+  alt="Manvendra Singh GitHub analytics"
 />
 
 </div>
@@ -127,14 +210,15 @@ Computer Science student with experience in **software development, machine lear
 
 <div align="center">
 
-<img
-  width="680"
-  src="https://streak-stats.demolab.com?user=manvendra1864&hide_border=true&background=00000000&ring=0096FF&fire=7DF9FF&currStreakLabel=4169E1&sideLabels=0096FF&currStreakNum=4169E1&sideNums=4169E1&dates=718096"
-  alt="GitHub contribution streak"
-/>
+<a href="https://git.io/streak-stats">
+  <img
+    width="680"
+    src="https://streak-stats.demolab.com?user=manvendra1864&hide_border=true&background=00000000&ring=0096FF&fire=7DF9FF&currStreakLabel=0096FF&sideLabels=4169E1&currStreakNum=7DF9FF&sideNums=0096FF&dates=8B949E"
+    alt="GitHub contribution streak"
+  />
+</a>
 
 </div>
--->
 
 <h2 align="center">Contribution Activity</h2>
 
@@ -142,7 +226,7 @@ Computer Science student with experience in **software development, machine lear
 
 <img
   width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=manvendra1864&bg_color=00000000&color=4169E1&line=0096FF&point=7DF9FF&area=true&area_color=0096FF&hide_border=true&custom_title=Manvendra%20Singh's%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=manvendra1864&bg_color=00000000&color=7DF9FF&line=0096FF&point=4169E1&area=true&area_color=0096FF&hide_border=true&custom_title=Manvendra%20Singh's%20Contribution%20Graph"
   alt="GitHub contribution activity graph"
 />
 
@@ -153,26 +237,23 @@ Computer Science student with experience in **software development, machine lear
 <div align="center">
 
 <!--
-  This animation is generated by:
-  .github/workflows/snake.yml
-
-  The workflow must run successfully before the snake appears.
-  After adding the workflow, run it manually from the Actions tab.
+The snake is generated by .github/workflows/snake.yml.
+Run the workflow manually after adding it.
 -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/manvendra1864/manvendra1864/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/manvendra1864/manvendra1864/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/manvendra1864/manvendra1864/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/manvendra1864/manvendra1864/output/github-snake.svg"
   />
   <img
     width="100%"
-    src="https://raw.githubusercontent.com/manvendra1864/manvendra1864/output/github-contribution-grid-snake.svg"
-    alt="Animated contribution snake"
+    src="https://raw.githubusercontent.com/manvendra1864/manvendra1864/output/github-snake.svg"
+    alt="GitHub contribution snake"
   />
 </picture>
 
@@ -182,17 +263,47 @@ Computer Science student with experience in **software development, machine lear
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/manvendra1864/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0096FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/manvendra1864/" target="_blank">
+  <img
+    height="44"
+    width="44"
+    src="https://cdn.simpleicons.org/linkedin/0096FF"
+    title="LinkedIn"
+    alt="LinkedIn"
+  />
 </a>
-<a href="https://x.com/YOUR_X_USERNAME">
-  <img src="https://img.shields.io/badge/X-Follow-4169E1?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+  <img
+    height="44"
+    width="44"
+    src="https://cdn.simpleicons.org/x/4169E1"
+    title="X"
+    alt="X"
+  />
 </a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-0096FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+  <img
+    height="44"
+    width="44"
+    src="https://cdn.simpleicons.org/instagram/0096FF"
+    title="Instagram"
+    alt="Instagram"
+  />
 </a>
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:manvendra1864@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-4169E1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    height="44"
+    width="44"
+    src="https://cdn.simpleicons.org/gmail/4169E1"
+    title="Email"
+    alt="Email"
+  />
 </a>
 
 <img
